@@ -1,0 +1,137 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Great news from the north of England being a detection of a late plot (or conspiracy) against the present government.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85615</idno>
+            <idno type="STC">Wing G1735G</idno>
+            <idno type="STC">ESTC R43868</idno>
+            <idno type="EEBO-CITATION">42475555</idno>
+            <idno type="OCLC">ocm 42475555</idno>
+            <idno type="VID">151160</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85615)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151160)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2246:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Great news from the north of England being a detection of a late plot (or conspiracy) against the present government.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for W. Sturt ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Dated in ms. below title: 19. April. 1690.</note>
+                  <note>"LICENS'D, And Entered according to Order."</note>
+                  <note>Reproduction of original in: Newberry Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lancashire Plot, 1689-1694.</term>
+               <term>Jacobites --  Early works to 1800.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb facs="tcp:151160:1" rendition="simple:additions"/>
+            <head>GREAT NEWS FROM THE North of England; BEING A DETECTION OF A LATE <hi>Plot. (or Conſpiracy:)</hi> Againſt the Preſent Government.</head>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <p>LICENS'D, And Entered according to Order.</p>
+               </body>
+            </floatingText>
+            <p>HIS Moſt Sacred Majeſty, King <hi>William,</hi> ever ſince His Acceſſion to the Imperial Crown of theſe Realms (rightly conſi<g ref="char:EOLhyphen"/>dering, that Mercy is one of the moſt ſplendidſt Gems, that truly adorns a Crown) has extended his Clemency even to the greateſt of Offenders; Amongſt a number of other Inſtances, particularly to the Officers and Soul<g ref="char:EOLhyphen"/>diers of the Lord <hi>Dunbarton</hi>'s Regi<g ref="char:EOLhyphen"/>ment, after every Soul of them had forfeited their Lives, by their Noto<g ref="char:EOLhyphen"/>rious <hi>Defect</hi> or rather <hi>Rebellion,</hi> near the Iſle of <hi>Ely;</hi> And his Majeſties ſo often recommending to the <hi>Laſt Par<g ref="char:EOLhyphen"/>liament,</hi> and his taking Care to have preſented to the <hi>Preſent, a Bill of In<g ref="char:EOLhyphen"/>demnity,</hi> that, if poſſible, He would oblige the moſt Obdurate of his Sub<g ref="char:EOLhyphen"/>jects, to Acts of Loyalty and Obedi<g ref="char:EOLhyphen"/>ence; yet, notwithſtanding all this Princely Condeſcenſion, its too too plain and evident, that there are ma<g ref="char:EOLhyphen"/>ny <hi>Roman Catholicks,</hi> and other <hi>Jaco<g ref="char:EOLhyphen"/>bites,</hi> ſo notoriouſly diſaffected to our preſent happy Conſtitution, that they are not to be allowed, or drawn by the Chords of Mercy and Clemency; which is plainly demonſtrated from their late detected <hi>ſecret Cabals,</hi> and <hi>Treaſonable Conſpiracies</hi> in the <hi>North of England, to</hi> diſturb the Government in His Majeſty's Ab<g ref="char:EOLhyphen"/>ſence; but let them have a care, leaſt it ſhould befall them, what the Lord Chief Juſtice <hi>Scroggs</hi> told <hi>Coleman, ne Catalus qui dem relinquendus;</hi> for Or<g ref="char:EOLhyphen"/>ders are already gon down to have ſe<g ref="char:EOLhyphen"/>veral taken into Cuſtody.</p>
+            <pb facs="tcp:151160:2"/>
+            <p>Likewiſe, their almoſt daily Paper <hi>Plots,</hi> or <hi>Treaſonable</hi> Pamphlets, which by their <hi>Factors</hi> they <hi>ſecret<g ref="char:EOLhyphen"/>ly diſperſe,</hi> to endeavour, if poſ<g ref="char:EOLhyphen"/>ſible, to poyſon the Minds of many of His Majeſty's <hi>well-meaning</hi> Leige People; for the prevention, an ſome Meaſure, of the ſaid <hi>deſign</hi> of theirs, I reccommend the Reader to the fol<g ref="char:EOLhyphen"/>lowing Admonitions.</p>
+            <p>How much <hi>Europe</hi> in general, and this Kingdom in particular, has ſuffered by the Bloody Zeal of Furious and Cruel <hi>Papiſts,</hi> is known to every man of common Underſtanding amongſt Us; Therefore it behoves Us, of this Nation, to conſider our Danger and former Sufferings, and grow ſo Wiſe, as not to run the ſame Hazard again, as we were lately like to be brought into, in the Days of <hi>James</hi> the II; or truſt they will prove more kind, than they have been heretofore; We may aſſure our Selves, if Experience has not taught us to uſe all means to a<g ref="char:EOLhyphen"/>void their Cruelty, it has now taught them, how more effectually to work our Deſtruction. All the Repentance that ever I heard they have ſhewn, is, only that they did not more through<g ref="char:EOLhyphen"/>ly Root out their Adverſaries, when they had the Power in their own Hands; and that is all we muſt look for, if ever God, for our Sins, ſhould ſuffer Abdicated King <hi>James</hi> to pre<g ref="char:EOLhyphen"/>vail again. For, whatever fair or ſpe<g ref="char:EOLhyphen"/>cious Pretences may be alledged againſt our preſent happy Conſtitution and Settlement, by the <hi>Jacobites,</hi> and other more Slyer Enemies. King <hi>James</hi>'s General <hi>Liberty of Conſcience</hi> was but the Guilded Bait to delude us; 'Twas really our <hi>Religion,</hi> our <hi>Eſtates, Li<g ref="char:EOLhyphen"/>berties, Lives</hi> and <hi>Fortunes,</hi> which that <hi>Prince,</hi> and his <hi>Popiſh Crew</hi> thirſted after; For if ever they ſhould prevail, the <hi>Liberty</hi> they promiſe us, would end in <hi>Slavery,</hi> the <hi>Wealth</hi> in <hi>Beggary,</hi> and the <hi>Happineſs</hi> in <hi>Confuſion.</hi> The Hor<g ref="char:EOLhyphen"/>rour of Queen <hi>MARY</hi>'s Days, the ſeveral <hi>Bloody Plots</hi> and <hi>Conſpi<g ref="char:EOLhyphen"/>racics</hi> in Queen <hi>Elizabeths,</hi> and King <hi>James</hi> the Firſt, the Maſſacre in <hi>France,</hi> and the <hi>Rebellion</hi> and Horrid Maſ<g ref="char:EOLhyphen"/>ſacre in <hi>Ireland,</hi> 1641. are not yet blotted out of our Minds; and the late and Inhumane bloody Practices of King <hi>James,</hi> and his bloody <hi>French</hi> and <hi>Iriſh</hi> Crew, ſince his Landing <hi>There,</hi> we have daily Inſtances of almoſt be<g ref="char:EOLhyphen"/>fore our Eyes; neither have we forgot the lamentable Miſeries and Deſtructi<g ref="char:EOLhyphen"/>ons of our late <hi>Civil Wars,</hi> which were chiefly fomented and ſtirred up by them.</p>
+            <p>If therefore the Preſervation of our Holy Reform'd <hi>Religion,</hi> our <hi>Eſtates, Lives</hi> and <hi>Fortunes,</hi> the Benefit of our <hi>Poſterity,</hi> the true <hi>Peace</hi> of the <hi>King<g ref="char:EOLhyphen"/>dom,</hi> the preventing of <hi>Popery, Atheſm,</hi> and <hi>Confuſion,</hi> and the common Rules of <hi>Juſtice,</hi> be any Motives to work up<g ref="char:EOLhyphen"/>on Us, I hope, it will be the Endeav<g ref="char:EOLhyphen"/>ours, and conſtant Care of all true <hi>Engliſh-men,</hi> to keep out <hi>Tyranny</hi> and <hi>Popery,</hi> and heartily maintain the <hi>Reli<g ref="char:EOLhyphen"/>gion</hi> and <hi>Government,</hi> which is now eſtabliſhed amongſt Us.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>W. Sturt,</hi> in St. <hi>Paul's</hi> Church-Yard, 1690.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
